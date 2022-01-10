@@ -1,3 +1,0 @@
-
-times do
-    puts "hi"
